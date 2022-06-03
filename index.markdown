@@ -5,7 +5,7 @@
 layout: page
 title: Diane Adjavon
 ---
-![My face](assets/my_face.jpg)
+![My face](assets/images/my_face.jpg)
 
 ## Computers do some things better than us. This is fact. I'm just trying to take advantage of it.
 

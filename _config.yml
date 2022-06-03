@@ -25,10 +25,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   She is interested in how structure relates to function in cells.
   She also likes cool bugs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://adjavon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: diane_adjavon
 github_username:  adjavon
 show_excerpts: true
+copyright: "Picture by Matt Staley."
 
 # Build settings
 theme: minima
