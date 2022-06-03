@@ -2,9 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 title: Diane Adjavon
 ---
+![My face](assets/my_face.jpg)
 
 ## Computers do some things better than us. This is fact. I'm just trying to take advantage of it.
 
