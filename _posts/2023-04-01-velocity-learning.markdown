@@ -1,3 +1,9 @@
+---
+published: true
+layout: post
+title: Velocity Learning
+---
+
 Recently while reading [this book](https://arxiv.org/abs/2104.13478) I stumbled upon the phrase:
 
 > Crucially, learning a dynamical system by modeling its velocity turns out to be much easier than learning its position directly. In our learning setup, this translates into an optimisation landscape with more favorable geometry, leading to the ability to train much deeper architectures than was possible before.
