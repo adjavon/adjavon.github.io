@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Velocity Learning"
 date: 2023-04-01
 categories: deeplearning, selfnotes
