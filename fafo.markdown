@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Tried this at home
+title: Blog
 list_title: '  '
 ---

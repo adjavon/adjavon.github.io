@@ -20,4 +20,4 @@ I get a similar feeling from transformers, although not as clear. The query, key
 [^2]: Here, the noise added at a given step in the forward process
 [^3]: Or at least a difference, let's say those are the same in this case.
 [^4]: Is it third order? I still struggle to understand the respective roles of query, key and value. They all seem like embeddings to me.
-[^4]: Especially when transformers might be doing gradient descent on the context? See [Transformers learn in-context by gradient descent](https://arxiv.org/abs/2212.07677) by von Oswald et al.
+[^5]: Especially when transformers might be doing gradient descent on the context? See [Transformers learn in-context by gradient descent](https://arxiv.org/abs/2212.07677) by von Oswald et al.
