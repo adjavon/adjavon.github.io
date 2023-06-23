@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Velocity Learning
+tags: deep-learning geometric-dl resnet transformers
 ---
 
 Recently while reading [this book](https://arxiv.org/abs/2104.13478) I stumbled upon the phrase:

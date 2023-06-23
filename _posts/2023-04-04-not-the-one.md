@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Not the One
+tags: fiction
 ---
 
 *A short story[^1]*
