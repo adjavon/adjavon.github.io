@@ -166,8 +166,8 @@ What it does
 - Special training necessary
 
 What I did
-- Dropout in the dense layers of VGG (test and train)
-- 10 forward passes for each sample
+- Trained 10 identical VGG networks on the same data with different random initializations
+- Each sample goes through all 10 networks
 - Mean and Std of `softmax(logits)`
 
 <figure>
