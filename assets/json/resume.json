@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Diane Adjavon",
+    "label": "Machine Learning Researcher",
+    "image": "",
+    "email": "adjavond@hhmi.org",
+    "url": "https://adjavon.github.io",
+    "summary": "Machine Learning Researcher for the Biological Sciences",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "diane_adjavon",
+        "url": "https://twitter.com/diane_adjavon"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "HHMI Janelia Research Campus",
+      "position": "Machine Learning Researcher",
+      "url": "https://www.janelia.org",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Developing machine learning models for biological data analysis, with a particular focus on explainability.",
+      "highlights": ["Quantitative Attribution", "Counterfactual Images"]
+    },
+    {
+      "name": "Orange Research Labs", 
+      "position": "Intern",
+      "url": "https://www.orange.com",
+      "startDate": "2017-02",
+      "endDate": "2017-08",
+      "summary": "Worked on the development of a filtering protocol for DDoS attacks on cloud infrastructures.",
+      "highlights": ["DDoS Filtering", "Cloud Security", "XDP"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Edinburgh",
+      "location": "Edinburgh, Scotland",
+      "url": "https://www.ed.ac.uk",
+      "area": "Quantitative Biology",
+      "studyType": "PhD",
+      "startDate": "2018",
+      "endDate": "2022"
+    },
+    {
+      "institution": "Ecole Normale Supérieure de Lyon", 
+      "location": "Lyon, France",
+      "url": "https://www.ens-lyon.fr",
+      "area": "Computer Science and Complex Networks",
+      "studyType": "Master",
+      "startDate": "2017",
+      "endDate": "2018"
+    },
+    {
+      "institution": "EURECOM",
+      "location": "Sophia Antipolis, France",
+      "url": "https://www.eurecom.fr",
+      "area": "Computer and Network Security",
+      "studyType": "Engineering Degree",
+      "startDate": "2014",
+      "endDate": "2017"
+    },
+    {
+      "institution": "Telecom ParisTech",
+      "location": "Paris, France",
+      "url": "https://www.telecom-paristech.fr",
+      "area": "Telecommunications",
+      "studyType": "Engineering Degree",
+      "startDate": "2014",
+      "endDate": "2017"
+    },
+    {
+      "institution": "Lycée Faidherbe",
+      "location": "Lille, France",
+      "studyType": "Preparatory Classes, PCSI/PSI",
+      "startDate": "2012",
+      "endDate": "2014"
+    }
+
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Conversational",
+      "icon": ""
+    }
+  ]
+}
