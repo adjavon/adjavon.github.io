@@ -3,7 +3,7 @@ published: true
 layout: post
 tags: unfiltered
 last_updated: 2025-03-13
-description: A question I get asked (yearly, mostly by family) is "what even does a machine learning researcher do on a daily basis?" Here's a sneak peek. 
+description: A question I get asked (yearly, mostly by family) is ''what even does a machine learning researcher do on a daily basis?'' Here's a sneak peek. 
 
 ---
 # A day in the life
