@@ -18,9 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Machine Learning Researcher at the [Funke Lab](https://www.janelia.org/lab/funke-lab) at [HHMI Janelia](https://www.janelia.org).
-My research focuses on building interpretable computer vision tools to get the most out of (already extremely cool) microscopy.
-Previously, I did my PhD at the University of Edinburgh at the [Swain Lab](https://swainlab.bio.ed.ac.uk) where I worked on automating the segmentation of yeast cells and some of their organelles in order to study the dynamics of glucose starvation, and got my Master's from [ENS Lyon](http://www.ixxi.fr) working on information transfer in gene regulatory networks at the [LBMC](http://www.ens-lyon.fr/LBMC/equipes/systems-biology-of-decision-making).
+I am currently a Research Scientist in the AI/ML team at [Biohub NY](https://biohub.org) where I attempt to poke inside AI models trained on single-cell RNA seq to see what they’ve learned about immune cells.
+
+In the past I've been:
+- A Machine Learning Researcher at the [Funke Lab](https://www.janelia.org/lab/funke-lab) at [HHMI Janelia](https://www.janelia.org) where my research focuses on building interpretable computer vision tools to get the most out of (already extremely cool) microscopy.
+- A PhD at the University of Edinburgh at the [Swain Lab](https://swainlab.bio.ed.ac.uk) where I worked on automating the segmentation of yeast cells and some of their organelles in order to study the dynamics of glucose starvation
+- A Master's at [ENS Lyon](http://www.ixxi.fr) working on information transfer in gene regulatory networks at the [LBMC](http://www.ens-lyon.fr/LBMC/equipes/systems-biology-of-decision-making).
 
 In my previous life studying computer systems security, I also got degrees from [Telecom ParisTech](https://www.telecom-paris.fr/en/home)/[EURECOM](https://www.eurecom.fr/en/home).
 
